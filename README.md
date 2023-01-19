@@ -10,7 +10,7 @@ HyperTiles Dash is a simple endless target based hypercasual arcade game made wi
 
 ## How to Download
 
-Download this project from here [Download HyperTiles Dash](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Python-Games/tree/master/HyperTile%20Dash)
+Download this project from here [Download HyperTiles Dash](https://downgit.github.io/#/home?url=https://github.com/imrancoding/Hypertiles-dash-game)
 
 ## Requirements
 
